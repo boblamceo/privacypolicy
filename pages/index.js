@@ -13,18 +13,18 @@ export default function Home() {
 
 			<main className={styles.main}>
 				<h1 className={styles.title}>
-					The weather app's <span>privacy policy!</span>
+					The weather app{"&apos"}s <span>privacy policy!</span>
 				</h1>
 				<h3>Privacy Policy</h3>
 				<p>
-					Bob Lam built the Bob's Weather App app as a Free app. This SERVICE is provided by Bob Lam at no
+					Bob Lam built the Bob{"&apos"}s Weather App app as a Free app. This SERVICE is provided by Bob Lam at no
 					cost and is intended for use as is. This page is used to inform visitors regarding my policies with
 					the collection, use, and disclosure of Personal Information if anyone decided to use my Service. If
 					you choose to use my Service, then you agree to the collection and use of information in relation to
 					this policy. The Personal Information that I collect is used for providing and improving the
 					Service. I will not use or share your information with anyone except as described in this Privacy
 					Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions,
-					which are accessible at Bob's Weather App unless otherwise defined in this Privacy Policy.
+					which are accessible at Bob{"&apos"}s Weather App unless otherwise defined in this Privacy Policy.
 				</p>
 				<h3>Log Data</h3>
 				<p>
@@ -55,7 +55,7 @@ export default function Home() {
 					target="_blank"
 					rel="noopener noreferrer"
 				>
-					Powered by{' '}
+					Powered by
 					<span className={styles.logo}>
 						<Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
 					</span>
